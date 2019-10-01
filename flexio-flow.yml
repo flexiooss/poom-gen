@@ -1,0 +1,4 @@
+level: dev
+schemes: [maven]
+topics: [75]
+version: 1.0.0
